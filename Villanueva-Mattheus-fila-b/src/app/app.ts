@@ -13,7 +13,7 @@ import { ThirdComponent } from './third-component/third-component';
 })
 export class App {
   protected readonly title = signal('Villanueva-Mattheus-fila-b');
-  Mattheus = {
-    app: 'app'
-  }
+  mattheus = {
+    parola: 'app',
+  };
 }

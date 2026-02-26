@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
   styleUrl: './third-component.css',
 })
 export class ThirdComponent {
-  Mattheus = {
-    third: 'terzo'
-  }
+  mattheus = {
+    parola: 'terzo',
+  };
 }
